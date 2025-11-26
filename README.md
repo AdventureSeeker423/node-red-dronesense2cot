@@ -7,7 +7,7 @@
 <p align='center'>Portions of this code are derived from https://github.com/dfpc-coe/etl-drone-sense licensed under the MIT License.</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AdventureSeeker423/node-red-dronesense2cot/main/dronesense_flow_example.png" alt="Dronesense Flow Example">
+  <img src="https://github.com/AdventureSeeker423/node-red-dronesense2cot/blob/main/dronesense_flow_example.png?raw=true" alt="Dronesense Flow Example">
 </p>
 
 
