@@ -6,6 +6,8 @@
 
 <p align='center'>Portions of this code are derived from https://github.com/dfpc-coe/etl-drone-sense licensed under the MIT License.</p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/AdventureSeeker423/node-red-dronesense2cot/main/dronesense_flow_example.png" alt="Dronesense Flow Example"></p>
+
 ## Pre-Requisites / Setup
 1. Create an API Token through the DroneSense website
 
