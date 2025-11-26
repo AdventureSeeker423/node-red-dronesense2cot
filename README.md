@@ -4,13 +4,12 @@
 
 <p align='center'>Pulls drone location, details, and link to video stream.</p>
 
-<p align='center'>Portions of this code are derived from https://github.com/dfpc-coe/etl-axon licensed under the MIT License.</p>
+<p align='center'>Portions of this code are derived from https://github.com/dfpc-coe/etl-drone-sense licensed under the MIT License.</p>
 
 ## Pre-Requisites / Setup
 1. Create an API Token through the DroneSense website
 
 ## Deployment
-
 1. Install [node-red-contrib-tak](https://flows.nodered.org/node/node-red-contrib-tak) if not already installed.
 2. Import the node red flow.
 3. Open the "Fetch Dronesense Devices" function and fill in your API TOKEN inside the quotations.
