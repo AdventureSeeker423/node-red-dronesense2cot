@@ -10,9 +10,9 @@
 
 
 ## Pre-Requisites / Setup
-1. Create an API Key through the DroneSense website by logging in, navigating to the Admin page, Settings, and then Add New Key
+1. Create an API Key through the [DroneSense / Axon Air website](https://accounts.dronesense.com/) by logging in, navigating to the Admin page, Settings, and then Add New Key.
 2. Select Token Enabled, Video Enabled, and Allow All Missions or Select from the list the missions you want it to access.
-3. Set an expiration date in the future and copy the API Key it gives you once pressing "Save"
+3. Set an expiration date in the future and copy the API Key it gives you once pressing "Save."
 
 ## Deployment
 1. Install [node-red-contrib-tak](https://flows.nodered.org/node/node-red-contrib-tak) if not already installed.
