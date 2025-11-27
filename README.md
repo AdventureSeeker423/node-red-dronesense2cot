@@ -6,13 +6,13 @@
 
 <p align='center'>Portions of this code are derived from https://github.com/dfpc-coe/etl-drone-sense licensed under the MIT License.</p>
 
-<p align="center">
-  <img src="https://github.com/AdventureSeeker423/node-red-dronesense2cot/blob/main/dronesense_flow_example.png?raw=true" alt="Dronesense Flow Example">
-</p>
+<p align="center"><img src="https://github.com/AdventureSeeker423/node-red-dronesense2cot/blob/main/dronesense_flow_example.png?raw=true" alt="Dronesense Flow Example"></p>
 
 
 ## Pre-Requisites / Setup
-1. Create an API Token through the DroneSense website
+1. Create an API Key through the DroneSense website by logging in, navigating to the Admin page, Settings, and then Add New Key
+2. Select Token Enabled, Video Enabled, and Allow All Missions or Select from the list the missions you want it to access.
+3. Set an expiration date in the future and copy the API Key it gives you once pressing "Save"
 
 ## Deployment
 1. Install [node-red-contrib-tak](https://flows.nodered.org/node/node-red-contrib-tak) if not already installed.
